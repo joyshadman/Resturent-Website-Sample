@@ -1,6 +1,4 @@
-Okay, I will create a README file for your "Resturent-Website-Sample" project, assuming it uses responsive HTML, CSS, and Tailwind CSS.
 
-```markdown
 # Resturent-Website-Sample
 
 ## Description
